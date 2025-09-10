@@ -1,0 +1,17 @@
+{
+  "name": "mysql-api",
+  "version": "1.0.0",
+  "description": "REST API with Express and MySQL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.14.5"
+  }
+}
